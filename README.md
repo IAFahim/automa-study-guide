@@ -26,6 +26,7 @@ and debug the engine in an afternoon."
 | 10 | [Tips, Tricks & Power-User Patterns](docs/10-tips-and-tricks.md) | 37 field-tested tricks and gotchas |
 | 11 | [Development Guide](docs/11-development-guide.md) | build & run, stack inventory, conventions, debugging cheat sheet |
 | 12 | [File Map & Glossary](docs/12-file-map.md) | annotated directory tree, load-bearing files, glossary |
+| — | [AGENTS.md — AI Agent Operating Manual](docs/AGENTS.md) | the file to drop at the root of an Automa checkout so AI coding agents can modify it safely: golden rules, auto-registration map, block contract, exact recipes, do-not-fix quirks, verification checklist |
 
 ---
 
